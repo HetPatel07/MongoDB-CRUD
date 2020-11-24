@@ -1,0 +1,1 @@
+mongodb+srv://HetPatel:<password>@firstmongodbwebapp.pwdom.mongodb.net/<dbname>?retryWrites=true&w=majority
